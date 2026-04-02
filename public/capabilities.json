@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Digital Products",
+        "description": "End-to-end product design and engineering. We build high-performance web and mobile applications with impeccable UI/UX.",
+        "icon": "LayoutDashboard"
+    },
+    {
+        "title": "3D & Motion",
+        "description": "Cinematic 3D rendering and immersive animations that elevate your brand narrative and captivate your audience.",
+        "icon": "Cube"
+    },
+    {
+        "title": "Brand Strategy",
+        "description": "Data-driven strategy to position your brand as a market leader. We create cohesive identities that scale.",
+        "icon": "Hexagon"
+    }
+]

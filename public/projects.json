@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Aura Skincare",
+        "subtitle": "Brand Identity & Packaging",
+        "img": "../public/1 (2).jpg"
+    },
+    {
+        "title": "Nova Finance",
+        "subtitle": "Product Design (Mobile)",
+        "img": "../public/2.jpg"
+    },
+    {
+        "title": "Future Sounds Festival",
+        "subtitle": "Art Direction",
+        "img": "/images/project3.jpg",
+        "highlight": true
+    },
+    {
+        "title": "Spatial UI Kit",
+        "subtitle": "3D Visualization",
+        "img": "../public/4.jpg"
+    },
+    {
+        "title": "Dashboard UX",
+        "subtitle": "Web App Design",
+        "img": "../public/5.jpg"
+    },
+    {
+        "title": "Car Interface",
+        "subtitle": "UI/UX Design",
+        "img": "../public/6.jpg"
+    }
+]
